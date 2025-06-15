@@ -1,5 +1,4 @@
-## Hi there 👋
-
+STARTBOOTSTRAP Freelancer 테마 사용했고 사진과 스킬 지금까지 했던 프로젝트와 미래에 할 프로젝트 내용과 사진을 업로드 함. github주소(https://github.com/mong0501)
 <!--
 **mong0501/mong0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
